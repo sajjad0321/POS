@@ -1,2 +1,3 @@
-Fixed Bugs.
-Some Ui improvements.
+- Fixed Bugs.
+- Some Ui improvements.
+- Updated Reports.
