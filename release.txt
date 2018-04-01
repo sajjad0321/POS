@@ -1,3 +1,4 @@
 - Fixed Bugs.
 - Some Ui improvements.
 - Updated Reports.
+- Added Dynamic Low Qty 
